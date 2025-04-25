@@ -28,15 +28,17 @@ A comprehensive dashboard for tracking and managing AI safety incidents with adv
 - **Build Tool**: Create React App
 - **State Management**: React Hooks
 
+## Installation
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SourabhGurwani/ai-safety-dashboard.git
    cd ai-safety-dashboard
 Install dependencies:
 
-  ```bash
+bash
 npm install
 Run the development server:
 
-  ```bash
+bash
 npm start
