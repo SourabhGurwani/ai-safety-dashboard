@@ -30,15 +30,46 @@ A comprehensive dashboard for tracking and managing AI safety incidents with adv
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/SourabhGurwani/ai-safety-dashboard.git
-   cd ai-safety-dashboard
-Install dependencies:
+Follow these steps to set up the project locally:
 
-bash
+### 1. Clone the repository
+Clone the repository to your local machine using the following command:
+```bash
+git clone https://github.com/SourabhGurwani/ai-safety-dashboard.git
+cd ai-safety-dashboard
+```
+
+### 2. Install dependencies
+Install the required dependencies using `npm` or `yarn`:
+```bash
 npm install
-Run the development server:
+# or
+yarn install
+```
 
-bash
+### 3. Start the development server
+Run the development server to view the application locally:
+```bash
 npm start
+# or
+yarn start
+```
+The application will be available at `http://localhost:3000`.
+
+### 4. Build for production (optional)
+To create an optimized production build, use the following command:
+```bash
+npm run build
+# or
+yarn build
+```
+The production-ready files will be available in the `build` directory.
+
+### 5. Run tests (optional)
+To run the test suite, use:
+```bash
+npm test
+# or
+yarn test
+```
+
