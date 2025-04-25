@@ -73,3 +73,16 @@ npm test
 yarn test
 ```
 
+## Design Decisions and Challenges
+
+- **Design Decisions**:
+  - The project uses React 18 with TypeScript for type safety and scalability.
+  - CSS Variables are used for theming to ensure a consistent and customizable design.
+  - React Hooks are leveraged for state management to keep the codebase simple and functional.
+
+- **Challenges**:
+  - Ensuring responsiveness across all screen sizes required extensive testing and adjustments.
+  - Managing complex filtering and sorting logic for incidents while maintaining performance.
+
+
+
