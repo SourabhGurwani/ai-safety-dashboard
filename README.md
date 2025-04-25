@@ -1,5 +1,6 @@
 # AI Safety Incident Dashboard
 
+![Dashboard Screenshot](/public/screenshot.png)
 
 A comprehensive dashboard for tracking and managing AI safety incidents with advanced filtering, reporting, and analytics capabilities.
 
