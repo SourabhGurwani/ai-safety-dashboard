@@ -1,4 +1,5 @@
 # AI Safety Incident Dashboard
+https://ai-safety-dashboard-eta.vercel.app/
 
 ![Dashboard Screenshot](/public/screenshot.png)
 
